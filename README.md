@@ -66,10 +66,12 @@
 
 <h2 align="center">🎯 My Contribution</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake-dark.svg" alt="My Contribution" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake.svg">
+    <img alt="Pikachu Snake Game" src="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake.svg">
+  </picture>
 </div>
-
-<br/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
