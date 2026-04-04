@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Sheikh-Mainul-Islam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hey!+It's+me+Sheikh+Mainul+Islam+👋;AI+Automation+Specialist+🤖;Bridging+Software+&+Intelligence+⚙️" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Hey!+It's+me+Sheikh+Mainul+Islam+👋;AI+Automation+Specialist+🤖;Bridging+Software+&+Intelligence+⚙️" alt="Typing Animation" />
   </a>
 </div>
 
@@ -64,10 +64,9 @@
 
 <br/>
 
-<h2 align="center">⚡ Powering Up Contributions ⚡</h2>
+<h2 align="center">⚡ Powering Up Contributions</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/13Gbg1fG20AEvO/giphy.gif" width="100" alt="Pikachu" style="margin-bottom: -15px;" />
-  
   <img src="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake-dark.svg" alt="Pikachu Snake Game" />
 </div>
 
