@@ -45,12 +45,10 @@
 
 <h2 align="center">⚡ Tech Arsenal & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,django,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,postgres,mysql,django" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,eclipse,pycharm,latex,github,docker" />
   <br><br>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" height="50" alt="Zapier" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" />
