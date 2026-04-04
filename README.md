@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Sheikh-Mainul-Islam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hey!+It's+me+Sheikh+Mainul+Islam+💬;AI+Automation+Specialist+🤖;Bridging+Software+⚙️" alt="Sheikh Mainul Islam Profile" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hey!+It's+me+Sheikh+Mainul+Islam+%F0%9F%92%AC;AI+Automation+Specialist+%F0%9F%A4%96;Bridging+Software+%E2%9A%99%EF%B8%8F" alt="Sheikh Mainul Islam Profile" />
   </a>
 </div>
 <h3 align="center">Innovating with Code | BSc CSE Student at UAP 🚀</h3>
