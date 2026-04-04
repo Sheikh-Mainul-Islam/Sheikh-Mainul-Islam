@@ -64,14 +64,13 @@
 
 <br/>
 
+<h2 align="center">🎯 My Contribution</h2>
 
-  <img src="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/main/image_9db2ad.png" width="30"> 🎯 My Contribution
-</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake.svg">
-    <img alt="Pikachu Snake Game" src="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake.svg?v=3">
+    <img alt="Pikachu Snake Game" src="https://raw.githubusercontent.com/Sheikh-Mainul-Islam/Sheikh-Mainul-Islam/output/github-snake.svg?v=3" width="100%">
   </picture>
 </div>
 
