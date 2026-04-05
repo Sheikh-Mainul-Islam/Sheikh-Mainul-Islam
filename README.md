@@ -74,9 +74,18 @@
   </picture>
 </div>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 Achievements</h2>
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Sheikh-Mainul-Islam&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sheikh-Mainul-Islam&theme=transparent&title_color=00F0FF&text_color=58a6ff&icon_color=00F0FF" width="90%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Consistency-🔥_Active_Developer-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=000000" alt="Consistency" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF&labelColor=000000" alt="Focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mindset-Problem_Solver-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F0FF&labelColor=000000" alt="Mindset" />
 </div>
