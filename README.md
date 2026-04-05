@@ -83,6 +83,13 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sheikh-Mainul-Islam&theme=transparent&title_color=00F0FF&text_color=58a6ff&icon_color=00F0FF" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sheikh-Mainul-Islam&theme=transparent&utcOffset=6&title_color=00F0FF&text_color=58a6ff&icon_color=00F0FF" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Consistency-🔥_Active_Developer-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=000000" alt="Consistency" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF&labelColor=000000" alt="Focus" />
