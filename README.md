@@ -90,9 +90,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Consistency-🔥_Active_Developer-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=000000" alt="Consistency" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF&labelColor=000000" alt="Focus" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Mindset-Problem_Solver-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F0FF&labelColor=000000" alt="Mindset" />
+  <img src="https://img.shields.io/badge/Consistency-Active_Developer-555555?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=000000" alt="Consistency" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-AI_%26_Automation-555555?style=for-the-badge&logo=dependabot&logoColor=00F0FF&labelColor=000000" alt="Focus" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Mindset-Problem_Solver-555555?style=for-the-badge&logo=leetcode&logoColor=00F0FF&labelColor=000000" alt="Mindset" />
 </div>
