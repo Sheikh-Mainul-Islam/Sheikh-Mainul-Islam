@@ -57,9 +57,9 @@
 <br/>
 
 <h2 align="center">⚡ My GitHub Status</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheikh-Mainul-Islam&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Mainul-Islam&theme=transparent&background=00000000&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sheikh-Mainul-Islam&theme=transparent&background=00000000&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="70%" />
 </div>
 
 <br/>
