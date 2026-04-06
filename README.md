@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Sheikh-Mainul-Islam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hey!+It's+me+Sheikh+Mainul+Islam+%F0%9F%92%AC;AI+Automation+Specialist+%F0%9F%A4%96;Bridging+Software+%E2%9A%99%EF%B8%8F" alt="Sheikh Mainul Islam Profile" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hey!+It's+me+Sheikh+Mainul+Islam+%F0%9F%92%AC;AI+Automation+Specialist+%F0%9F%A4%96;Bridging+Software+%E2%9A%99%EF%B8%8F" alt="Sheikh Mainul Islam Profile" />
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 <div align="center">
   <b>🤖 AI Chatbot with Memory:</b> A context-aware conversational system with persistent memory. Integrated with Google Sheets & n8n for dynamic data handling and automated user interaction.
   <br><br>
-  <b>🏗️ Grihaloy:</b> An advanced web-based property listing platform engineered with Django, demonstrating robust backend architecture.
+  <b>🏠 Grihaloy:</b> An advanced web-based property listing platform engineered with Django, demonstrating robust backend architecture.
 </div>
 
 <br/>
