@@ -49,9 +49,12 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,eclipse,pycharm,latex,github,docker" />
   <br><br>
-  <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" height="50" alt="Zapier" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" />
+
+  <p align="center">
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" />
+</p>
 </div>
 
 <br/>
